@@ -1,0 +1,5 @@
+condicionescompetencias.CondicionesCompetencias
+condicionescompetencias.CondicionesCompetencias$4
+condicionescompetencias.CondicionesCompetencias$3
+condicionescompetencias.CondicionesCompetencias$2
+condicionescompetencias.CondicionesCompetencias$1
